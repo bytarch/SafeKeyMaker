@@ -13,17 +13,15 @@ SafeKeyMaker is a simple command-line tool written in C++ that allows you to gen
    ```bash
    git clone https://github.com/jimboo420/SafeKeyMaker.git
    cd SafeKeyMaker
-
+   
 2. Compile the program using a C++ compiler:
    ```bash
    g++ main.cpp -o password_generator
 
-
 3. Run the executable:
    ```bash
    ./password_generator
-
-
+   
 Follow the prompts to specify the desired password length and whether to apply a hash mask.
 
 Enter the desired password length: 12
