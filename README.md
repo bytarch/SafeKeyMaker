@@ -25,10 +25,15 @@ SafeKeyMaker is a simple command-line tool written in C++ that allows you to gen
 Follow the prompts to specify the desired password length and whether to apply a hash mask.
 
 Enter the desired password length: 12
+
 Generated Password: 1aB$eF!gH*jK
+
 Do you want to apply a hash mask? (y/n): y
+
 Enter the hash mask: secretmask
+
 Password with Hash Mask: 2d4e1f1a534b0b59072e040b
+
 Press any key to generate another password, or press 'x' to exit: <Press any key>
 
 
